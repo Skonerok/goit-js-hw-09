@@ -1,0 +1,24 @@
+input {
+    width: 135px;
+    height: 30px;
+    font-size: 15px;
+}
+
+button {
+    font-size: 15px;
+    padding: 5px 10px;
+    font-weight: bold;
+}
+
+.timer {
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    font-weight: bold;
+    gap: 50px;
+}
+
+.value {
+    display: block;
+    text-align: center;
+}
